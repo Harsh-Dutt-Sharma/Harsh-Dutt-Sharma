@@ -17,19 +17,38 @@
 
 ## 👤 Who I Am
 
-```typescript
-const harsh = {
-  title: "Computer Science Student",
-  stack: {
-    languages: ["JavaScript", "Python", "Java", "HTML", "CSS"],
-    backend: ["Node.js", "MongoDB"],
-  },
-  launchedProjects: ["EduForesight", "VoyageAI"],
-  certifications: [],
-  status: "Actively learning & building full-stack + AI-driven projects",
-  openTo: "Collaborations, internships, and interesting projects",
-};
-```
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎯 Role
+Computer Science Student
+
+### 🧠 Status
+Actively learning & building full-stack + AI-driven projects
+
+### 🤝 Open To
+Collaborations, internships, and interesting projects
+
+</td>
+<td width="50%" valign="top">
+
+### 🧰 Core Stack
+![JavaScript](https://img.shields.io/badge/-JavaScript-2b2b2b?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/-Python-2b2b2b?style=flat-square&logo=python&logoColor=3776AB)
+![Java](https://img.shields.io/badge/-Java-2b2b2b?style=flat-square&logo=openjdk&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML5-2b2b2b?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS](https://img.shields.io/badge/-CSS3-2b2b2b?style=flat-square&logo=css3&logoColor=1572B6)
+![Node.js](https://img.shields.io/badge/-Node.js-2b2b2b?style=flat-square&logo=node.js&logoColor=339933)
+![MongoDB](https://img.shields.io/badge/-MongoDB-2b2b2b?style=flat-square&logo=mongodb&logoColor=47A248)
+
+### 🚀 Launched Projects
+![EduForesight](https://img.shields.io/badge/-EduForesight-7dd3fc?style=flat-square&logoColor=white)
+![VoyageAI](https://img.shields.io/badge/-VoyageAI-7dd3fc?style=flat-square&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 <br/>
 
